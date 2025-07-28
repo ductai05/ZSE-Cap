@@ -35,7 +35,7 @@ Unlike typical approaches, ZSE‑Cap requires **no task‑specific fine‑tuning
 
 - **Ensemble Retrieval** using multiple vision backbones  
 - **Weighted fusion** of CLIP, SigLIP, and DINOv2 embeddings  
-- **Prompt‑guided captioning** with Gemma 3 (or your preferred LLM)  
+- **Prompt‑guided captioning** with Gemma 3
 - Fully zero‑shot: no additional training on EVENTA data  
 
 ---
@@ -59,7 +59,7 @@ Unlike typical approaches, ZSE‑Cap requires **no task‑specific fine‑tuning
      1. Query image (or its high‑level description)  
      2. Retrieved article text  
      3. Instruction to produce an event‑focused caption  
-   - Call Gemma 3 (or any strong LLM) via API to generate the caption.
+   - Use Gemma 3 to generate the caption.
 
 ---
 
