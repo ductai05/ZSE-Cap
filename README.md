@@ -85,10 +85,18 @@ This project is licensed under the **GNU General Public License v3.0**. See the 
 
 ## Preprint
 
-Available soon...
+[arXiv:2507.20564 - ZSE-Cap: A Zero-Shot Ensemble for Image Retrieval and Prompt-Guided Captioning](https://arxiv.org/abs/2507.20564)
 
 ## Citation
 
-If you use ZSE‑Cap in your research, please cite our paper: Available soon...
+If you use ZSE‑Cap in your research, please cite our paper: 
 
+``` latex
+@article{dinh2025zse,
+  title={ZSE-Cap: A Zero-Shot Ensemble for Image Retrieval and Prompt-Guided Captioning},
+  author={Dinh, Duc-Tai and Dinh, Duc Anh Khoa},
+  journal={arXiv preprint arXiv:2507.20564},
+  year={2025}
+}
+```
 
